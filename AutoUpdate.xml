@@ -3,5 +3,5 @@
   <version>1.0.5.1</version>
   <url>https://github.com/danhquyen/cmv/raw/main/updateprj.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-   <mandatory>true</mandatory>
+   <mandatory>false</mandatory>
 </item>
