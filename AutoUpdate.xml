@@ -1,7 +1,7 @@
 ﻿<item>
   <script id="tinyhippos-injected"/>
-  <version>1.0.5.6</version>
+  <version>1.0.5.7</version>
   <url>https://github.com/danhquyen/cmv/raw/main/updateprj.zip</url>
   <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-   <mandatory>false</mandatory>
+   <mandatory>true</mandatory>
 </item>
