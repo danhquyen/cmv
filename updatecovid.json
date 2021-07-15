@@ -1,10 +1,10 @@
 {
-   "version":"1.0.6.",
+   "version":"1.0.6.2",
    "url":"https://github.com/danhquyen/cmv/raw/main/updatecovid.zip",
    "changelog":"https://github.com/ravibpatel/AutoUpdater.NET/releases",
    "mandatory":{
       "value":true,
-      "minVersion": "2.0.0.0",
+      "minVersion": "1.0.6.0",
       "mode":1
    },
    "checksum":{
