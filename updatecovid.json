@@ -6,9 +6,5 @@
       "value":true,
       "minVersion": "1.0.6.0",
       "mode":1
-   },
-   "checksum":{
-      "value":"E5F59E50FC91A9E52634FFCB11F32BD37FE0E2F1",
-      "hashingAlgorithm":"SHA1"
    }
 }
