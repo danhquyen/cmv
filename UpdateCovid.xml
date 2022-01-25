@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.9.7</version>
+    <version>1.0.9.8</version>
     <url>https://github.com/danhquyen/cmv/raw/main/updatecovid.zip</url>
     <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
     <mandatory>false</mandatory>
